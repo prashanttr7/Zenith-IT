@@ -61,7 +61,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
     // 4. GOOGLE SHEETS FORM CONNECTION
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbxl-agulGRAKKatRtn5ISS_Koowkmht1BfNopH6EyOeU1RUHTOJYFkKi3Nf-Xc4cpCS/exec';
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbxevIVB3aXR8zV2_9O6s9Yld1lKav9U-cO7wCtPnZgZBr_YcRmHuMM0Vsc3BBcKmH0Q/exec';
     
     const form = document.forms['submit-to-google-sheet'];
     const msg = document.getElementById('form-message');
